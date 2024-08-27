@@ -1,0 +1,10 @@
+[package]
+name = "BFS-DFS-Search"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "BFS-DFS-Search"
+path = "main.rs"
